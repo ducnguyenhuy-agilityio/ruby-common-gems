@@ -11,6 +11,9 @@
 - [httparty](https://github.com/jnunemaker/httparty): Makes http requests
 - [json](https://github.com/flori/json): JSON implementation
 - [rack-health](https://github.com/mirakui/rack-health): A health check interface for rack applications
+- [will_paginate](https://github.com/mislav/will_paginate): A pagination library
+- [kaminari](https://github.com/kaminari/kaminari): Scope & Engine based, clean, powerful, customizable and sophisticated paginator
+- [has_scope](https://github.com/plataformatec/has_scope): Map incoming controller parameters to named scopes in your resources
 
 **development:**
 - [byebug](https://github.com/deivid-rodriguez/byebug): Debugging
@@ -28,3 +31,4 @@
 **Rails gems:**
 - [versionist](https://github.com/bploetz/versionist): A plugin for versioning Rails based RESTful APIs.
 - [active_model_serializers](https://github.com/rails-api/active_model_serializers): ActiveModel::Serializer implementation and Rails hooks
+- [date_validator](https://github.com/codegram/date_validator): A simple date validator for Rails
