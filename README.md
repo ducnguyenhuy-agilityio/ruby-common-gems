@@ -1,5 +1,6 @@
 
 **All environments:**
+- [rack](https://github.com/rack/rack): A modular Ruby webserver interface
 - [rack-cors](https://github.com/cyu/rack-cors): Cross-Origin Resource Sharing (CORS)
 - [simple_command](https://github.com/nebulab/simple_command): A simple, standardized way to build and use Service Objects
 - [dry-validation](https://github.com/dry-rb/dry-validation): Validation library with type-safe schemas and rules
@@ -19,6 +20,7 @@
 - [byebug](https://github.com/deivid-rodriguez/byebug): Debugging
 - [bullet](https://github.com/flyerhzm/bullet): Help to kill N+1 queries and unused eager loading
 - [annotate](https://github.com/ctran/annotate_models): Annotate Rails classes with schema and routes info
+- [rerun](https://github.com/alexch/rerun): Restarts an app when the filesystem changes
 
 **test:**
 - [rspec](https://github.com/dchelimsky/rspec): Behaviour Driven Development framework
