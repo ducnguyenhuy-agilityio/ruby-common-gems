@@ -1,5 +1,6 @@
 
 **All environments:**
+- [sinatra](https://github.com/sinatra/sinatra): Create quickly web applications in Ruby with minimal effort
 - [rack](https://github.com/rack/rack): A modular Ruby webserver interface
 - [rack-cors](https://github.com/cyu/rack-cors): Cross-Origin Resource Sharing (CORS)
 - [simple_command](https://github.com/nebulab/simple_command): A simple, standardized way to build and use Service Objects
